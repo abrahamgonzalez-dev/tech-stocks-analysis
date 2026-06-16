@@ -64,11 +64,9 @@ Daily returns were computed and their standard deviation was used as a measure o
 
 A correlation matrix was generated to study how the stock movements were related to one another.
 
-
 <p align="center">
   <img src="images/correlation_matrix.png" width="700">
 </p>
-
 
 ### 6. Risk vs Return Analysis
 
