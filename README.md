@@ -1,5 +1,7 @@
 # Tech Stocks Analysis
 
+### Author: Abraham González López
+
 ## Objective
 
 Evaluate and analyse data in regard to the most valuable technology companies' stock
@@ -16,7 +18,11 @@ Evaluate and analyse data in regard to the most valuable technology companies' s
 - Apple
 - Alphabet
 - Nvidia
-- Amazon 
+- Amazon
 - Microsoft
 - Meta
 - Tesla
+
+### Limitations
+
+This analysis is based exclusively on historical stock prices and does not take into account dividends, macroeconomic conditions, company fundamentals, or broader market factors. Therefore, the conclusions should not be interpreted as investment recommendations.
