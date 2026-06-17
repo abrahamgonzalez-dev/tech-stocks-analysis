@@ -1,5 +1,13 @@
 # Financial Data Analysis of Major Technology Companies (2020–2026)
 
+## Table of Contents
+- [Overview](#overview)
+- [Companies Analyzed](#companies-analyzed)
+- [Technologies Used](#technologies-used)
+- [Project Workflow](#project-workflow)
+- [Key Findings](#key-findings)
+- [Installation](#installation)
+
 ## Overview
 
 This project analyzes the stock performance of some of the world's largest technology companies between January 2020 and June 2026. Using historical market data obtained through Yahoo Finance, the analysis explores price evolution, total returns, volatility, correlations, and the relationship between risk and return.
@@ -72,8 +80,6 @@ A correlation matrix was generated to study how the stock movements were related
 
 A scatter plot was created to compare each company's total return against its volatility.
 
-## Risk vs Return
-
 <p align="center">
   <img src="images/risk_return.png" width="700">
 </p>
@@ -129,7 +135,7 @@ This analysis is based exclusively on historical stock prices and does not consi
 Clone the repository:
 
 ```bash
-git clone https://github.com/tu_usuario/Financial-Data-Analysis.git
+git clone https://github.com/abrahamgonzalez-dev/tech-stocks-analysis.git
 ```
 
 Install the required dependencies:
